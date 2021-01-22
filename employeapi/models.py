@@ -10,3 +10,13 @@ class Employer(models.Model):
     date_naissance=models.CharField(max_length=100)
     salaire=models.IntegerField()
     genre=models.CharField(max_length=1)
+
+
+
+# Create / Insert / Add POST
+
+# Retrieve / Fetch All GET
+
+# Update / Edit PUT 
+
+#  Delete / Remove DELETE 
